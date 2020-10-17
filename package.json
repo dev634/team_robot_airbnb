@@ -1,0 +1,19 @@
+{
+  "name": "team_robot_airbnb",
+  "version": "1.0.0",
+  "description": "Challenge airbnb, creation d'une application avec la MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev634/team_robot_airbnb.git"
+  },
+  "author": "team_robot_team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev634/team_robot_airbnb/issues"
+  },
+  "homepage": "https://github.com/dev634/team_robot_airbnb#readme"
+}
